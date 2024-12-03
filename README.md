@@ -15,6 +15,9 @@ This repository is a collection of links to semester-wise repositories containin
 - [**Semester 6 Repository**](https://github.com/pulkitshringi/SRM-Sem6-Notes-PYQS)
 - [**Electives**](https://github.com/pulkitshringi/SRM-Electives)
 
+### Other Useful links 
+• Download pyq's directly from Dspace : http://dspace.srmist.edu.in/jspui/
+
 ---
 
 ## Contribution
