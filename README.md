@@ -9,10 +9,10 @@ This repository is a collection of links to semester-wise repositories containin
 ## Semester
 
 
-- [**Semester 3 Repository**](https://github.com/pulkitshringi/SRM-Sem3-Notes-PYQS)
-- [**Semester 4 Repository**](https://github.com/pulkitshringi/SRM-Sem-4-Notes-PYQS)
-- [**Semester 5 Repository**](https://github.com/pulkitshringi/SRM-Sem5-Notes-PYQS)
-- [**Semester 6 Repository**](https://github.com/pulkitshringi/SRM-Sem6-Notes-PYQS)
+- [**3rd Semester**](https://github.com/pulkitshringi/SRM-Sem3-Notes-PYQS)
+- [**4th Semester**](https://github.com/pulkitshringi/SRM-Sem-4-Notes-PYQS)
+- [**5th Semester**](https://github.com/pulkitshringi/SRM-Sem5-Notes-PYQS)
+- [**6th Semester**](https://github.com/pulkitshringi/SRM-Sem6-Notes-PYQS)
 - [**Electives**](https://github.com/pulkitshringi/SRM-Electives)
 
 ### Other Useful links 
