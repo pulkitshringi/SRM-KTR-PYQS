@@ -11,7 +11,7 @@ This repository is a collection of links to semester-wise repositories containin
 The links are organized semester-wise to provide clear navigation and ease of access. Each semester contains subject-wise segregated links, ensuring a streamlined experience.
 
 
-- **Semester 3**: [https://github.com/pulkitshringi/SRM-Sem3-Notes-PYQS](#)
+- **Semester 3**: [https://github.com/pulkitshringi/SRM-Sem3-Notes-PYQS](semester 3)
 - **Semester 4**: [https://github.com/pulkitshringi/SRM-Sem-4-Notes-PYQS](#)
 - **Semester 5**: [https://github.com/pulkitshringi/SRM-Sem5-Notes-PYQS](#)
 - **Semester 6**: [https://github.com/pulkitshringi/SRM-Sem6-Notes-PYQS](#)
