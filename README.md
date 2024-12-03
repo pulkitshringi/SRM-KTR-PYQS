@@ -6,9 +6,7 @@ This repository is a collection of links to semester-wise repositories containin
 
 ---
 
-## Repository Structure
-
-The links are organized semester-wise to provide clear navigation and ease of access. Each semester contains subject-wise segregated links, ensuring a streamlined experience.
+## Semester
 
 
 - [**Semester 3 Repository**](https://github.com/pulkitshringi/SRM-Sem3-Notes-PYQS)
@@ -28,7 +26,3 @@ If you have additional PYQs or updated versions, feel free to contribute! Follow
 3. Submit a pull request with your changes.
 
 ---
-
-## License
-
-This repository is open-source and available for educational use under the [MIT License](LICENSE).
