@@ -16,7 +16,7 @@ This repository is a collection of links to semester-wise repositories containin
 - [**Electives**](https://github.com/pulkitshringi/SRM-Electives)
 
 ### Other Useful links 
-• Chapterwise PYQs : https://pulkitshringi.notion.site/SRM-Chapterwise-PYQs-15102330d99a801eb1d6d82146e974bd?pvs=4
+• Chapterwise PYQs : [**https://pulkitshringi.notion.site/SRM-Chapterwise-PYQs**](https://pulkitshringi.notion.site/SRM-Chapterwise-PYQs-15102330d99a801eb1d6d82146e974bd) 
 • Download pyq's directly from Dspace : http://dspace.srmist.edu.in/jspui/
 
 ---
